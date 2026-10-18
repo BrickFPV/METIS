@@ -1,3 +1,3 @@
 # METIS
 
-[Buradan indirebilirsiniz](https://drive.google.com/drive/folders/1vsbbi60TCpFeGoCGNa-_2jBHpgjbaT8J?usp=drive_link)
+Uygulamayı [buradan indirebilirsiniz](https://drive.google.com/file/d/1QUXuzJzTe_gpr4f2dW4iIXtHkO2Z_1Se/view?usp=drive_link)
